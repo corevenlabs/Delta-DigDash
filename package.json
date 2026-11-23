@@ -1,0 +1,7 @@
+{
+  "name": "laudus-digdash",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test", "exportar": "node laudus-digdash.js" }
+}

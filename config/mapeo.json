@@ -1,0 +1,1276 @@
+{
+  "MINOS ARTICLES": [
+    {
+      "field": "ID_ARTICLE_CODE",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Article code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_NAME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Designation Article",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_LONG_NAME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Designation long Article",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_GROUPING",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Grouping article code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_GROUPING_NAME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Grouping article name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTILCE_EAN",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "EAN code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_BRAND",
+      "source": "",
+      "static": "",
+      "description": "Brand code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_ARTICLE_FAMILY",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Family code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_FAMILY_NAME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Family name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_CLASS1",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class 1 code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_CLASS1_NAME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class 1 name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_CLASS2",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class 2 code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_CLASS2_NAME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class 2 name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_CLASS3",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class 3 code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_CLASS3_NAME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class 3 name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_COLOR",
+      "source": "",
+      "static": "",
+      "description": "Color article",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_COLOR_NAME",
+      "source": "",
+      "static": "",
+      "description": "Color designation",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_ARTICLE_STOCK_ROTATION_CLASS",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Rotation class code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_ARTICLE_NIV_GAMME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Level range article",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_TYPE_ART",
+      "source": "",
+      "static": "",
+      "description": "Product code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_ARTICLE_FOUR",
+      "source": "",
+      "static": "",
+      "description": "Pre-defined Supplier Code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_ARTICLE_TYPE",
+      "source": "",
+      "static": "",
+      "description": "Article type code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_USER_CREATION_ARTICLE",
+      "source": "",
+      "static": "",
+      "description": "Article creation profile",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_DATE_CREATION_ARTICLE",
+      "source": "",
+      "static": "",
+      "description": "Article creation date",
+      "laudus": "",
+      "notes": "Corevenlabs: ver si hay un campo para esto en Laudus"
+    },
+    {
+      "field": "ID_VL",
+      "source": "",
+      "static": "",
+      "description": "VL11",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_NUCUE",
+      "source": "",
+      "static": "",
+      "description": "Nb UC/VL11",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_WEIGHT_VL",
+      "source": "",
+      "static": "",
+      "description": "Weight VL11",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_UNITEW_VL",
+      "source": "",
+      "static": "",
+      "description": "Unit Weight VL11",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_WEIGHT_ARTICLE",
+      "source": "",
+      "static": "",
+      "description": "Article weight",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_VOL_VL",
+      "source": "",
+      "static": "",
+      "description": "Volume VL11",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_UNITEVOL_VL",
+      "source": "",
+      "static": "",
+      "description": "Unite volume VL11",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_ARTICLE_LEGIS",
+      "source": "",
+      "static": "",
+      "description": "safety standards",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_ARTICLE_RISQUE",
+      "source": "",
+      "static": "",
+      "description": "risks",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    }
+  ],
+  "MINOS SALES": [
+    {
+      "field": "ID_Date_invoice",
+      "source": "Laudus",
+      "static": "",
+      "description": "Invoice date",
+      "laudus": "TBC con Corevenlabs",
+      "notes": "Nombre de la Cabecera: FECHA (extrac -> facturas con detalle)"
+    },
+    {
+      "field": "ID_Date_order",
+      "source": "Laudus",
+      "static": "",
+      "description": "Order date",
+      "laudus": "TBC con Corevenlabs",
+      "notes": "Nombre de la Cabecera: FECHA (extrac -> pedidos con detalle)"
+    },
+    {
+      "field": "ID_Date_conf",
+      "source": "",
+      "static": "",
+      "description": "delay date",
+      "laudus": "",
+      "notes": "Corevenlabs: ver si existe"
+    },
+    {
+      "field": "ID_Date_DELIVERY",
+      "source": "Laudus",
+      "static": "",
+      "description": "delivery date",
+      "laudus": "TBC con Corevenlabs",
+      "notes": "Nombre de la Cabecera: PREVISTO (extrac -> pedidos con detalle)"
+    },
+    {
+      "field": "ID_Company",
+      "source": "Static",
+      "static": "SCL",
+      "description": "company code",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Warehouse",
+      "source": "Static",
+      "static": "WCL",
+      "description": "warehouse code",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_HS_Customer_invoiced",
+      "source": "Laudus",
+      "static": "",
+      "description": "invoice customer code ",
+      "laudus": "TBC con Corevenlabs",
+      "notes": "Corevenlabs: ver si se puede encontrar un numero unico generado por cliente"
+    },
+    {
+      "field": "ID_Currency_invoiced",
+      "source": "Laudus",
+      "static": "",
+      "description": "currency invoice",
+      "laudus": "currencyCode (TBC con Corevenlabs)",
+      "notes": "Nombre de la Cabecera: MONEDA (extrac -> pedidos con detalle)"
+    },
+    {
+      "field": "ID_Article_code",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Article code / item code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Name",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Article name ",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Long_Name",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Article long name ",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Grouping",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "article grouping (father/son)",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Grouping_Name",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "article grouping name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Artilce_EAN",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "barre code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Brand",
+      "source": "",
+      "static": "",
+      "description": "Brand code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Article_family",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Article family ",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Family_Name",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "family name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Class1",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class1 article",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Class1_Name",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "class1 name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Class2",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class2 article",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Class2_Name",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "class2 name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Class3",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Class3 article",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Class3_Name",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "class3 name",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Article_Color",
+      "source": "",
+      "static": "",
+      "description": "article color code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Color_Name",
+      "source": "",
+      "static": "",
+      "description": "color mane",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Article_stock_rotation_class",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Stock rotation class",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_Customer_Company",
+      "source": "",
+      "static": "",
+      "description": "Customer company",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_code",
+      "source": "",
+      "static": "",
+      "description": "customer code delivered",
+      "laudus": "",
+      "notes": "Corevenlabs: ver lo que podemos agregar con los campos en Laudus"
+    },
+    {
+      "field": "ID_Customer_invoiced",
+      "source": "",
+      "static": "",
+      "description": "customer code invoiced",
+      "laudus": "",
+      "notes": "Corevenlabs: ver lo que podemos agregar con los campos en Laudus"
+    },
+    {
+      "field": "ID_Customer_ordered",
+      "source": "",
+      "static": "",
+      "description": "customer code ordered",
+      "laudus": "",
+      "notes": "Corevenlabs: ver lo que podemos agregar con los campos en Laudus"
+    },
+    {
+      "field": "ID_Customer_groupname",
+      "source": "",
+      "static": "",
+      "description": "customer groupname",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_name",
+      "source": "Laudus",
+      "static": "",
+      "description": "Customer name invoiced",
+      "laudus": "TBC con Corevenlabs",
+      "notes": "Nombre de la Cabecera: CLIENTE (extrac -> factura con detalle)"
+    },
+    {
+      "field": "ID_Customer_zipcode",
+      "source": "",
+      "static": "",
+      "description": "Customer invoiced zip code",
+      "laudus": "",
+      "notes": "Dejar vacio (no agregamos esta informacion en Laudus)"
+    },
+    {
+      "field": "ID_Customer_city",
+      "source": "Laudus",
+      "static": "",
+      "description": "Customer invoiced city",
+      "laudus": "TBC con Corevenlabs",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_country",
+      "source": "Laudus",
+      "static": "",
+      "description": "Customer invoiced country",
+      "laudus": "TBC con Corevenlabs",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_language",
+      "source": "Laudus",
+      "static": "",
+      "description": "Customer invoiced language",
+      "laudus": "TBC con Corevenlabs",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_currency",
+      "source": "Laudus",
+      "static": "",
+      "description": "Customer invoiced currency",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_shop_type",
+      "source": "Static",
+      "static": "****",
+      "description": "Customer invoiced shop type ",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_type",
+      "source": "Static",
+      "static": "C",
+      "description": "Customer invoiced type",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_category",
+      "source": "Laudus",
+      "static": "",
+      "description": "Customer invoiced category",
+      "laudus": "Familia (Nombre TBC con Corevenlabs)",
+      "notes": "Corevenlabs: indicar que en Laudus, si el campo vale \\DISTRIBUIDORES - NACIONAL o \\DISTRIBUIDORES - EXPORT -> CL en DigDash y si el campo es \\DISTRIBUIDORES - EXPORT GRUPO -> GR en DigDash"
+    },
+    {
+      "field": "ID_Category_name",
+      "source": "Static",
+      "static": "DP Chile",
+      "description": "Customer invoiced category name",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_profession",
+      "source": "",
+      "static": "",
+      "description": "Customer invoiced profession ",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Profession_name",
+      "source": "",
+      "static": "",
+      "description": "Customer invoiced profession name",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_salesman1",
+      "source": "",
+      "static": "",
+      "description": "Salesman 1 code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Salesman1_name",
+      "source": "",
+      "static": "",
+      "description": "Salesman 1 code - Salesman name",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_salesman2",
+      "source": "",
+      "static": "",
+      "description": "Salesman 2 code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Salesman2_name",
+      "source": "",
+      "static": "",
+      "description": "Salesman 2 code - Salesman name",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_geo_sector",
+      "source": "",
+      "static": "",
+      "description": "Sector geographic",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Geo_sector",
+      "source": "",
+      "static": "",
+      "description": "Sector geographic name",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Salesman1_from_invoice",
+      "source": "",
+      "static": "",
+      "description": "Salesman 1 code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Salesman1_from_invoice_name",
+      "source": "",
+      "static": "",
+      "description": "Salesman 1 code - Salesman name",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Quantity_invoiced",
+      "source": "Laudus",
+      "static": "",
+      "description": "Quantity invoiced",
+      "laudus": "Quantity (TBC con corevenlabs)",
+      "notes": ""
+    },
+    {
+      "field": "ID_TO_Locale",
+      "source": "Laudus",
+      "static": "",
+      "description": "TO local currency",
+      "laudus": "Net",
+      "notes": ""
+    },
+    {
+      "field": "ID_TO_Customer",
+      "source": "",
+      "static": "",
+      "description": "default 0 if invoice not in currency EURO ",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_TO_Euro",
+      "source": "Calcul",
+      "static": "",
+      "description": "TO local currency EURO",
+      "laudus": "ID_TO_Locale/Exchange Rate",
+      "notes": "Corevenlabs: ver la posibilidad de hacer este tipo de calculo, agregando en Laudus una tasa de cambio"
+    },
+    {
+      "field": "ID_Margin_Locale",
+      "source": "Laudus",
+      "static": "",
+      "description": "amount margin local currency",
+      "laudus": "Margin",
+      "notes": ""
+    },
+    {
+      "field": "ID_Margin_Euro",
+      "source": "Calcul",
+      "static": "",
+      "description": "amount margin EURO currency",
+      "laudus": "ID_Margin_Locale/Exchange Rate",
+      "notes": "Corevenlabs: ver la posibilidad de hacer este tipo de calculo, agregando en Laudus una tasa de cambio"
+    },
+    {
+      "field": "ID_Cost_price_Locale",
+      "source": "Calcul",
+      "static": "",
+      "description": "Amount cost local currency ",
+      "laudus": "ID_TO_Locale - ID_Margin_Locale",
+      "notes": "Corevenlabs: ver si hay un campo con el costo calculado por producto o si se puede hacer el calculo"
+    },
+    {
+      "field": "ID_Cost_price_Euro",
+      "source": "Calcul",
+      "static": "",
+      "description": "Amount cost EURO currency",
+      "laudus": "ID_Cost_price_Locale/Exchange Rate",
+      "notes": "Corevenlabs: ver si hay un campo con el costo calculado por producto o si se puede hacer el calculo"
+    },
+    {
+      "field": "ID_INVOICE_NUMBER",
+      "source": "Laudus",
+      "static": "",
+      "description": "Invoice number",
+      "laudus": "Numero (TBC con corevenlabs)",
+      "notes": ""
+    },
+    {
+      "field": "ID_CENTRAL_CUSTOMER_CODE",
+      "source": "",
+      "static": "",
+      "description": "central code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_ARTICLE_NIV_GAMME",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Prenium ",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Qualification",
+      "source": "",
+      "static": "",
+      "description": "customer qualification",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_Leverage",
+      "source": "",
+      "static": "",
+      "description": "leverage customer invoice",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_delivery_State",
+      "source": "",
+      "static": "",
+      "description": "customer delivery state ",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_TYPE_ART",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Article type ",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_INVOICE_ARTICLE_rotation_class",
+      "source": "",
+      "static": "",
+      "description": "Rotation class",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Quantity_free",
+      "source": "Static",
+      "static": "0.0",
+      "description": "free qty ",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_A_F_ORDER",
+      "source": "LookUp Sales Invoice",
+      "static": "",
+      "description": "Invoice or credit not ",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_country_delivery",
+      "source": "",
+      "static": "",
+      "description": "customer delivery country",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_MARGIN_LEVEL_local",
+      "source": "",
+      "static": "",
+      "description": "created by pgm",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_MARGIN_LEVEL_EURO",
+      "source": "",
+      "static": "",
+      "description": "created by pgm",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_Super_Structure",
+      "source": "",
+      "static": "",
+      "description": "classification big customer ",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_delivery_name",
+      "source": "Laudus",
+      "static": "",
+      "description": "Customer delivery name",
+      "laudus": "TBC con Corevenlabs",
+      "notes": "Nombre de la Cabecera: CLIENTE (extrac -> factura con detalle)"
+    },
+    {
+      "field": "ID_Company_Customer_category",
+      "source": "Static",
+      "static": "SCL",
+      "description": "Company Customer category",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Customer_Delivery_Qualification",
+      "source": "",
+      "static": "",
+      "description": "Customer Delivery Qualification",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Customer_Delivery_Leverage",
+      "source": "",
+      "static": "",
+      "description": "Customer Delivery Leverage",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_Article_Default_Supplier",
+      "source": "Static",
+      "static": "DP Chile",
+      "description": "Supplier by default",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Date_demand",
+      "source": "",
+      "static": "",
+      "description": "desired date",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_YEAR",
+      "source": "",
+      "static": "",
+      "description": "Order year ",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_NUM_OFFER",
+      "source": "",
+      "static": "",
+      "description": "not use",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_OFFER_IND",
+      "source": "",
+      "static": "",
+      "description": "not use",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_OFFER_LIN",
+      "source": "",
+      "static": "",
+      "description": "not use",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_REFEXT",
+      "source": "",
+      "static": "",
+      "description": "order reference",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_WEBODP",
+      "source": "",
+      "static": "",
+      "description": "ref web",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_ORDER_NATURE",
+      "source": "Static",
+      "static": "N",
+      "description": "order nature ",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_ORDER_TYP",
+      "source": "",
+      "static": "",
+      "description": "Order type",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    }
+  ],
+  "MINOS LIGHT": [
+    {
+      "field": "ID_ARTICLE_CLASS1",
+      "source": "PIED",
+      "static": "",
+      "description": "Class 1 code",
+      "laudus": "productCategory.productCategoryId",
+      "notes": "ID de la SUBFAMILIA. Ej. '00O' para AIR RESPIRADOR."
+    },
+    {
+      "field": "ID_ARTICLE_NIV_GAMME",
+      "source": "",
+      "static": "",
+      "description": "Level range article",
+      "laudus": "NO DISPONIBLE EN LAUDUS",
+      "notes": "No expuesto en Laudus."
+    },
+    {
+      "field": "ID_ARTICLE_FAMILY",
+      "source": "",
+      "static": "",
+      "description": "Family code",
+      "laudus": "DERIVADO: parentId de productCategory (lookup en Catalogo_Categorias)",
+      "notes": "ID de la familia RAIZ. Ej. '00G' (AIR SAFETY) cuando el producto es de '00O AIR RESPIRADOR'."
+    },
+    {
+      "field": "ID_CUSTOMER_CATEGORY",
+      "source": "MAS",
+      "static": "",
+      "description": "Cat. code delivered customer",
+      "laudus": "customerCategory_customerCategoryId",
+      "notes": "En Baspa hay 3 valores: 001 DISTRIBUIDORES-NACIONAL, 003 DISTRIBUIDORES-EXPORT, 004 DISTRIBUIDORES-EXPORT GRUPO. Corresponde a las 3 familias de cliente."
+    },
+    {
+      "field": "ID_CUSTOMER_GEO_SECTOR",
+      "source": "",
+      "static": "",
+      "description": "Geo. sector code delivered customer",
+      "laudus": "NO DISPONIBLE EN LAUDUS",
+      "notes": "Sector geografico de cliente no expuesto en Laudus."
+    },
+    {
+      "field": "ID_DATE_INVOICE",
+      "source": "",
+      "static": "",
+      "description": "Invoice date",
+      "laudus": "issuedDate",
+      "notes": "Formato datetime ISO; convertir a YYYYMMDD para Maspica."
+    },
+    {
+      "field": "ID_COMPANY",
+      "source": "",
+      "static": "",
+      "description": "Company",
+      "laudus": "CONSTANTE: \"BASPA\"",
+      "notes": "Definido en baspa_dashboard.py: ID_COMPANY = 'BASPA'."
+    },
+    {
+      "field": "ID_WAREHOUSE",
+      "source": "",
+      "static": "",
+      "description": "Warehouse",
+      "laudus": "warehouseId",
+      "notes": "ID alfanumerico de bodega."
+    },
+    {
+      "field": "ID_WEBODP",
+      "source": "",
+      "static": "",
+      "description": "Type Ext. Ref.",
+      "laudus": "NO DISPONIBLE EN LAUDUS",
+      "notes": "Tipo de referencia externa no expuesto."
+    },
+    {
+      "field": "ID_QUANTITY_INVOICED",
+      "source": "",
+      "static": "",
+      "description": "Invoice qty",
+      "laudus": "quantity",
+      "notes": ""
+    },
+    {
+      "field": "ID_TO_EURO",
+      "source": "",
+      "static": "",
+      "description": "Sales ccy Euro",
+      "laudus": "CALCULADO: ID_TO_LOCALE / TC_CLP_EUR",
+      "notes": "Pendiente definir TC (BCCh diario / fijo mensual / ERP Delta)."
+    },
+    {
+      "field": "ID_TO_LOCALE",
+      "source": "",
+      "static": "",
+      "description": "Sales ccy local",
+      "laudus": "CALCULADO: quantity * unitPrice * (1 - discountPercentage/100)",
+      "notes": "Neto de la linea en CLP."
+    },
+    {
+      "field": "ID_MARGIN_EURO",
+      "source": "",
+      "static": "",
+      "description": "Margin Euro",
+      "laudus": "CALCULADO: ID_MARGIN_LOCALE / TC_CLP_EUR",
+      "notes": "Pendiente definir TC."
+    },
+    {
+      "field": "ID_MARGIN_LOCALE",
+      "source": "",
+      "static": "",
+      "description": "Local margin",
+      "laudus": "CALCULADO: (unitPrice - unitCost) * quantity",
+      "notes": "unitCost se cruza por productId; muchos productos en Baspa tienen unitCost=0."
+    },
+    {
+      "field": "ID_OBJ_EUR",
+      "source": "",
+      "static": "",
+      "description": "EURO Target",
+      "laudus": "NO DISPONIBLE EN LAUDUS",
+      "notes": "Objetivo de ventas EUR no esta en Laudus (es un dato de presupuesto)."
+    },
+    {
+      "field": "ID_OBJ_LOC",
+      "source": "",
+      "static": "",
+      "description": "Local target",
+      "laudus": "NO DISPONIBLE EN LAUDUS",
+      "notes": "Objetivo de ventas local no esta en Laudus (es un dato de presupuesto)."
+    }
+  ],
+  "MINOS STOCK PERIODE": [
+    {
+      "field": "ID_Company",
+      "source": "Static",
+      "static": "SCL",
+      "description": "Company code",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Warehouse",
+      "source": "Static",
+      "static": "WCL",
+      "description": "Warehouse code",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_DATE_INVOICE",
+      "source": "Laudus",
+      "static": "",
+      "description": "inventory month end date",
+      "laudus": "TBC con corevenlabs",
+      "notes": ""
+    },
+    {
+      "field": "ID_Article_code",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Article code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_QT_AVAILABLE",
+      "source": "Laudus",
+      "static": "",
+      "description": "Quantity in stock",
+      "laudus": "Stock",
+      "notes": ""
+    },
+    {
+      "field": "ID_VALUE_LOCAL",
+      "source": "Laudus",
+      "static": "",
+      "description": "local Amount local curreccy ",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_VALUE_EURO",
+      "source": "Calcul",
+      "static": "",
+      "description": "customer amount  EURO curreccy ",
+      "laudus": "VALSTE AS ID_VALUE_LOCAL/Exchange Rate",
+      "notes": "Corevenlabs: ver si se puede hacer este tipo de calculo"
+    },
+    {
+      "field": "ID_PUMP_LOCALE",
+      "source": "Laudus",
+      "static": "",
+      "description": "WAUP Euro Amount ",
+      "laudus": "Valorazion (TBC con corevenlabs)",
+      "notes": "Corevenlabs: ver lo que existe"
+    },
+    {
+      "field": "ID_DCA_LOCALE",
+      "source": "",
+      "static": "",
+      "description": "last purchase cost",
+      "laudus": "",
+      "notes": "Corevenlabs: ver lo que existe"
+    }
+  ],
+  "MINOS STOCK SALES": [
+    {
+      "field": "ID_Company",
+      "source": "Static ",
+      "static": "",
+      "description": "Company code",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_Warehouse",
+      "source": "Static ",
+      "static": "",
+      "description": "Warehouse code",
+      "laudus": "",
+      "notes": ""
+    },
+    {
+      "field": "ID_DATE_INVOICE",
+      "source": "Laudus",
+      "static": "",
+      "description": "Invoice date",
+      "laudus": "TBC con Corevenlabs",
+      "notes": "Nombre de la Cabecera: FECHA (extrac -> facturas con detalle)"
+    },
+    {
+      "field": "ID_Article_code",
+      "source": "LookUp Sales Product",
+      "static": "",
+      "description": "Article code",
+      "laudus": "",
+      "notes": "Ver en la hoja LookUp Sales Product"
+    },
+    {
+      "field": "ID_QUANTITY_INVOICED",
+      "source": "Laudus",
+      "static": "",
+      "description": "invoiced Quantity ",
+      "laudus": "Quantity (TBC con corevenlabs)",
+      "notes": ""
+    },
+    {
+      "field": "ID_TO_LOCALE",
+      "source": "Laudus",
+      "static": "",
+      "description": "local Amount currecy local",
+      "laudus": "Net",
+      "notes": ""
+    },
+    {
+      "field": "ID_TO_CUSTOMER",
+      "source": "",
+      "static": "",
+      "description": "customer amount  currency ",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    },
+    {
+      "field": "ID_TO_EURO",
+      "source": "Calcul",
+      "static": "",
+      "description": "Euro Amount ",
+      "laudus": "ID_TO_Locale/Exchange Rate",
+      "notes": "Corevenlabs: ver la posibilidad de hacer este tipo de calculo, agregando en Laudus una tasa de cambio"
+    },
+    {
+      "field": "ID_COST_PRICE_LOCALE",
+      "source": "Calcul",
+      "static": "",
+      "description": "Cost price local curreccy",
+      "laudus": "ID_TO_Locale - ID_Margin_Locale",
+      "notes": "Corevenlabs: ver si hay un campo con el costo calculado por producto o si se puede hacer el calculo"
+    },
+    {
+      "field": "ID_COST_PRICE_EURO",
+      "source": "Calcul",
+      "static": "",
+      "description": "Cost price EURO",
+      "laudus": "ID_Cost_price_Locale/Exchange Rate",
+      "notes": "Corevenlabs: ver si hay un campo con el costo calculado por producto o si se puede hacer el calculo"
+    },
+    {
+      "field": "ID_MARGIN_LOCALE",
+      "source": "Laudus",
+      "static": "",
+      "description": "amount magin local currenccy",
+      "laudus": "Margin",
+      "notes": ""
+    },
+    {
+      "field": "ID_MARGIN_EURO",
+      "source": "Calcul",
+      "static": "",
+      "description": "amount magin EURO",
+      "laudus": "ID_Margin_Locale/Exchange Rate",
+      "notes": "Corevenlabs: ver la posibilidad de hacer este tipo de calculo, agregando en Laudus una tasa de cambio"
+    },
+    {
+      "field": "ID_STOCK",
+      "source": "",
+      "static": "",
+      "description": "concat company code and warehouse code",
+      "laudus": "",
+      "notes": "Dejar vacio"
+    }
+  ]
+}
