@@ -1,3 +1,6 @@
 .env
 salida/
 node_modules/
+outputs/
+.venv/
+__pycache__/

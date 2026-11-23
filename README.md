@@ -93,6 +93,23 @@ No se imprimen tokens ni respuestas de autenticación.
 npm test
 ```
 
+## Generar Excel de la vista previa
+
+El script convierte los JSON de `salida/vista-previa/` a un Excel con las cuatro
+tablas de muestra, un resumen, una lectura vertical de la primera venta y los
+pendientes. No consulta Laudus ni envía datos. Está destinado a la muestra de una
+factura, no a una exportación completa de stock.
+
+```sh
+python3 -m venv .venv
+.venv/bin/pip install -r scripts/requirements.txt
+.venv/bin/python scripts/crear_excel.py
+```
+
+Resultado: `outputs/vista-previa-digdash/Vista_previa_Laudus_DigDash.xlsx`.
+Se pueden indicar otras carpetas mediante `--entrada` y `--salida`.
+Los archivos con datos y las credenciales permanecen excluidos de Git.
+
 Documentación oficial: https://laudus.cl/ayuda/api/
 
 Especificación de endpoints consultada: https://api.laudus.cl/swagger/index.html
